@@ -14,5 +14,7 @@
 
   Varia debido al procesador
 
-3.
+    c) 
+
+2. 
   
