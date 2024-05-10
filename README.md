@@ -16,5 +16,5 @@
 
 2.    
     1. [Código Completo](https://github.com/FrancoPanzone/ASO2024TPs/blob/main/TP3/con_race_condition(original).c)
-     2. [Imagen punto b](https://github.com/FrancoPanzone/ASO2024TPs/blob/main/TP3/TP%203%20punto%202b.jpg)
+     2. ![Imagen punto b](https://github.com/FrancoPanzone/ASO2024TPs/blob/main/TP3/TP%203%20punto%202b.jpg)
   
