@@ -12,7 +12,7 @@
 
       Varia según el procesador
 
-     3. Cuando uno descomenta las lineas el valor que toma acumulador se vuelve random. Esto ocurre porque ambos subprocesos (sumador y restador) acceden a una variable compartida (acumulador) al mismo tiempo. Ambos leen el valor del acumulador y realizan sus operaciones sobre este, y compiten por ver quien terminara asignando el valor de la variable compartida. Se conservara el valor del hilo que escribe el último valor, sobreescribiendo el valor del otro hilo.
+     3. Cuando uno descomenta las lineas el valor que toma el acumulador se vuelve random. Esto ocurre porque ambos subprocesos (sumador y restador) acceden a una variable compartida (acumulador) al mismo tiempo. Ambos leen el valor del acumulador y realizan sus operaciones sobre este, y compiten por ver quien terminara asignando el valor de la variable compartida. Se conservara el valor del hilo que escribe el último valor, sobreescribiendo el valor del otro hilo.
 
 2.    
     1. El código completo del punto a): [Código Completo](https://github.com/FrancoPanzone/ASO2024TPs/blob/main/TP3/con_race_condition(original).c)
