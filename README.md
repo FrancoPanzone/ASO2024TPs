@@ -19,5 +19,5 @@
 2.    
     1. El código completo del punto a): [Código Completo](https://github.com/FrancoPanzone/ASO2024TPs/blob/main/TP3/con_race_condition(original).c)
      2.
-  ![Imagen punto b](https://github.com/FrancoPanzone/ASO2024TPs/blob/main/TP3/TP%203%20punto%202b.jpg)
+  ![Imagen punto b](https://github.com/FrancoPanzone/ASO2024TPs/blob/main/TP3/TP3_Punto2B.jpg)
   
